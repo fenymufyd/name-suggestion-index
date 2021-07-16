@@ -86,7 +86,7 @@
     "@openstreetmap/id-tagging-schema": "~3.0.0",
     "@rollup/plugin-commonjs": "^17.0.0",
     "@rollup/plugin-json": "^4.1.0",
-    "@rollup/plugin-node-resolve": "^11.1.0",
+    "@rollup/plugin-node-resolve": "^13.0.2",
     "clear": "^0.1.0",
     "colors": "^1.1.2",
     "eslint": "^7.18.0",
