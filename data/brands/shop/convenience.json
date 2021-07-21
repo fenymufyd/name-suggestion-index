@@ -211,7 +211,6 @@
       "displayName": "Alfamart",
       "id": "alfamart-28d321",
       "locationSet": {"include": ["id", "ph"]},
-      "matchTags": ["shop/supermarket"],
       "tags": {
         "brand": "Alfamart",
         "brand:wikidata": "Q23745600",
